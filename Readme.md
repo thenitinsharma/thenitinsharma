@@ -44,6 +44,8 @@ const nitin = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -51,19 +53,32 @@ const nitin = {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI & LLMs
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=ai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Google MedGemma](https://img.shields.io/badge/Google_MedGemma-34A853?style=for-the-badge&logo=google&logoColor=white)
+
+### ML Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -112,10 +127,36 @@ const nitin = {
 
 ---
 
-### 🩺 AI Therapist
-> Mental wellness AI companion
+### 🧠 SukoonAI — Mental Health Support Platform
+> AI-powered mental wellness platform with empathetic real-time conversational support
 
-`Python` `AI`
+- Built with **Google MedGemma** + **Grok API** for multi-model LLM orchestration
+- Full-stack **Next.js 14** with SSR, API optimization & HIPAA-compliant authentication
+- Responsive UI with Shadcn UI + TailwindCSS — **98% accessibility score**
+- Real-time conversation threading with emotional pattern recognition
+- 🥈 **2nd Rank — Prism Expo** project showcase
+
+`Next.js` `Google MedGemma` `Grok API` `Shadcn UI` `TailwindCSS`
+
+---
+
+### 🛠️ WebGenie — CLI Project Generator
+> One-command CLI tool that scaffolds full web project boilerplate instantly
+
+- Auto-generates HTML, CSS, JavaScript & database structure in a single command
+- Reduced manual setup time by **75%**, letting developers focus on core logic immediately
+
+`Python` `CLI Development` `File Handling`
+
+---
+
+### 🤖 Intelligent Excuse Generator
+> Context-aware AI system with believability scoring for generated excuses
+
+- Supports **text & voice input** via Speech-to-Text APIs for accessibility
+- Bilingual output in **Hindi and English** using NLP & ML techniques
+
+`Python` `NLP` `Speech-to-Text` `AI/ML`
 
 ---
 
@@ -146,12 +187,25 @@ const nitin = {
 
 ## 🏆 Certifications & Achievements
 
-- ☁️ **AWS Solutions Architecture** — Certified
+- ☁️ **AWS Solutions Architecture** — Job Simulation Certified
 - 🤖 **Google 5-Day AI Agents Intensive** — Completed
-- 📊 **Tata GenAI-Powered Data Analytics** — Certified
-- 💼 **LaunchEd Global** — AI & ML Intern (prior)
-- 🏅 **NHAI Hackathon 7.0** — Participant (Offline Facial Recognition System)
+- 📊 **Tata GenAI-Powered Data Analytics** — Job Simulation Certified
+- 💼 **LaunchEd Global** — AI & ML Intern (Jul–Sep 2025)
+- 🥈 **2nd Rank — Coding & Debugging Challenge**
+- 🥈 **2nd Rank — Prism Expo** (SukoonAI)
+- 🏅 **Strategy Storm 2026 & Web Sprint Challenge** — UDTech
+- 🏅 **NHAI Hackathon 7.0** — Offline Facial Recognition System
 - 🏅 **GDG Lucknow Agent Premier League** — Team Lead, Team Zenith
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| Hindi | Native / Bilingual |
+| English | Professional Working |
+| Japanese | Elementary |
 
 ---
 
