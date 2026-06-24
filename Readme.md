@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" max-width="500"/>
 
-🎓 B.Tech CSE (AI & ML) @ AKTU, Prayagraj · Batch of 2027  
+🎓 B.Tech CSE (AI & ML) @ AKTU,Lucknow · Batch of 2027  
 💡 Passionate about AI for Tier 2/3 India & regional language tech  
 🚀 GSSoC '26 Open Source Contributor · Hackathon Enthusiast
 
@@ -24,7 +24,7 @@
 
 ```javascript
 const nitin = {
-    location: "Prayagraj, Uttar Pradesh, India 🇮🇳",
+    location: "Lucknow, Uttar Pradesh, India 🇮🇳",
     education: "B.Tech CSE (AI & ML) @ AKTU · 2023–2027",
     currentFocus: ["AI/ML Development", "Open Source (GSSoC '26)", "Full Stack Apps"],
     workingOn: "AI tools for Hindi-speaking students & regional language NLP",
